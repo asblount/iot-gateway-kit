@@ -24,6 +24,6 @@ To interact with sensor tag devices, you'll need to run sudo ./start.ble , locat
 
 To start the services up again after rebooting your machine (or stopping them for some other reason), run sudo service iot start , and then run sudo ./start.ble  again.
 
-### More Information
+### More Information:
 
 You can find more documentation on IoT Kit components here: [https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=cee6c09c-a315-4b04-ad14-57d6a60fa8bb](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=cee6c09c-a315-4b04-ad14-57d6a60fa8bb)
